@@ -23,7 +23,7 @@
     "unused": "eslint-find-rules --unused"
   },
   "dependencies": {
-    "confusing-browser-globals": "^1.0.9",
+    "confusing-browser-globals": "^1.0.11",
     "eslint-config-prettier": "^6.11.0"
   },
   "devDependencies": {
